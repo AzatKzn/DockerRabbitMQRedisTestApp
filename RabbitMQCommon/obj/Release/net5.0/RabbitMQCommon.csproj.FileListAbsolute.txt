@@ -1,0 +1,11 @@
+C:\Users\azat1\source\repos\DockerRabbitMQRedisTestApp\RabbitMQCommon\bin\Release\net5.0\RabbitMQCommon.deps.json
+C:\Users\azat1\source\repos\DockerRabbitMQRedisTestApp\RabbitMQCommon\bin\Release\net5.0\RabbitMQCommon.dll
+C:\Users\azat1\source\repos\DockerRabbitMQRedisTestApp\RabbitMQCommon\bin\Release\net5.0\ref\RabbitMQCommon.dll
+C:\Users\azat1\source\repos\DockerRabbitMQRedisTestApp\RabbitMQCommon\bin\Release\net5.0\RabbitMQCommon.pdb
+C:\Users\azat1\source\repos\DockerRabbitMQRedisTestApp\RabbitMQCommon\obj\Release\net5.0\RabbitMQCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azat1\source\repos\DockerRabbitMQRedisTestApp\RabbitMQCommon\obj\Release\net5.0\RabbitMQCommon.AssemblyInfoInputs.cache
+C:\Users\azat1\source\repos\DockerRabbitMQRedisTestApp\RabbitMQCommon\obj\Release\net5.0\RabbitMQCommon.AssemblyInfo.cs
+C:\Users\azat1\source\repos\DockerRabbitMQRedisTestApp\RabbitMQCommon\obj\Release\net5.0\RabbitMQCommon.csproj.CoreCompileInputs.cache
+C:\Users\azat1\source\repos\DockerRabbitMQRedisTestApp\RabbitMQCommon\obj\Release\net5.0\RabbitMQCommon.dll
+C:\Users\azat1\source\repos\DockerRabbitMQRedisTestApp\RabbitMQCommon\obj\Release\net5.0\ref\RabbitMQCommon.dll
+C:\Users\azat1\source\repos\DockerRabbitMQRedisTestApp\RabbitMQCommon\obj\Release\net5.0\RabbitMQCommon.pdb

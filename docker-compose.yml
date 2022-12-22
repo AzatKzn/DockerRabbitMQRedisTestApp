@@ -1,0 +1,44 @@
+﻿version: "3.4"
+
+services:
+    redis:
+        image: redis:6.2.6
+        restart: always
+        hostname: redis
+        ports: 
+            - "6379:6379"
+        tty: true
+        networks: 
+            - tests
+    rabbitmq:
+        image: rabbitmq:3.9.7-management
+        restart: always
+        hostname: rabbitmq
+        tty: true
+        ports:
+            - "5672:5672"
+            - "15672:15672"
+        networks:
+            - tests
+    publisher:
+        build:
+            context: .
+            dockerfile: publisher
+        tty: true
+        depends_on: 
+            - redis
+            - rabbitmq
+        networks:
+            - tests
+    consumer:        
+        build: 
+            context: .
+            dockerfile: consumer
+        tty: true
+        depends_on:
+            - redis
+            - rabbitmq
+        networks:
+            - tests
+networks:
+    tests:
